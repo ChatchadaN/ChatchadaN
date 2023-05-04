@@ -12,12 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ChatchadaN&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChatchadaN&theme=jolly&hide_border=false)<br/>
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ChatchadaN&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-<br>
----
-[![](https://visitcount.itsvg.in/api?id=ChatchadaN&icon=7&color=1)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChatchadaN&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
