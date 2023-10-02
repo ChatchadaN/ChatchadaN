@@ -4,7 +4,7 @@
 🎮 I’m Chatchadaporn Noivichai(Game)<br>
 👩‍💻 I’m a Full Stack Web Developer.<br>
 💬 I graduated with bachelor degree in computer engineering.<br>
-🌱 I’m currently learning more about UI UX Design and Game Development.<br>
+🌱 I’m currently learning more about UI UX Design.<br>
 📫 How to reach me: Email - Chatchadaporn176@gmail.com
 
 # 🌐 Socials:
